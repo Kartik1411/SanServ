@@ -1,0 +1,41 @@
+.title-sec {
+   background-color: black;
+   color:white;
+   height: 50%;
+}
+.title-img img{
+    margin:150px auto 150px auto;
+    display: block;
+    width: 80%;
+    height: 50%;
+}
+.title-intro {
+    margin: 150px auto 150px auto;
+    align-items: center;
+}
+.title-intro>h1 {
+    text-align: center;
+    font-size: 72px;
+}
+.title-intro h2 {
+    text-align: center;
+    font-size: 36px;
+}
+.title-intro p {
+    text-align: center;
+    font-size: 24px;
+}
+.title-intro>a {
+    text-decoration: none;
+    color: white;
+}
+.link-button {
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-size: 32px;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 250px;
+    margin-right: 250px;
+}
